@@ -14,6 +14,8 @@ Curso de Procesamiento de Lenguaje Natural — Universidad del Valle de Guatemal
 | Ruta | Contenido |
 |---|---|
 | [`laboratorio_4_barca_cafe.ipynb`](laboratorio_4_barca_cafe.ipynb) | **Notebook ejecutado.** Partes A–E, estadísticas y reflexión. |
+| [`Laboratorio4_ExtraccionLinguistica_Linares.pdf`](Laboratorio4_ExtraccionLinguistica_Linares.pdf) | El notebook en formato de reporte (33 páginas), para entregar. |
+| [`entrega/`](entrega/) | Fuente LaTeX del PDF, con el logo y la figura que usa. |
 | [`laboratorio_4_resultados.csv`](laboratorio_4_resultados.csv) | **Entregable.** Una fila por reseña: sentimiento, score, entidades. |
 | [`ANALISIS.md`](ANALISIS.md) | Casos difíciles y reflexión escrita, fuera del notebook. |
 | [`data/resenas_barca_cafe.csv`](data/resenas_barca_cafe.csv) | Dataset de 36 reseñas con etiqueta humana y tipo de caso. |
@@ -80,6 +82,14 @@ pip install -r requirements.txt
 python -m nbconvert --to notebook --execute --inplace laboratorio_4_barca_cafe.ipynb
 ```
 
-La primera ejecución descarga unos 3 GB de modelos desde el Hub de Hugging Face. También corre en
+Para regenerar el PDF (dos pasadas, por las tablas largas):
+
+```bash
+cd entrega
+pdflatex Laboratorio4_ExtraccionLinguistica_Linares.tex
+pdflatex Laboratorio4_ExtraccionLinguistica_Linares.tex
+```
+
+La primera ejecución del notebook descarga unos 3 GB de modelos desde el Hub de Hugging Face. También corre en
 CPU, solo que más lento; aquí se ejecutó en GPU (RTX 4060). La inferencia es determinista: dos ejecuciones dan las
 mismas predicciones y los mismos scores.
