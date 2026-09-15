@@ -1,0 +1,37 @@
+review_id,text,etiqueta_humana,estrellas,casos,tema,origen
+1,"Fuimos después del tour del Museo del FC Barcelona y nos encantó. La decoración azulgrana, las pantallas gigantes y unos camareros muy agradables. Muy recomendable.",POSITIVO,5,positivo;entidades,decoracion;servicio,simulada_tema_real
+2,"La camarera Nuria nos atendió de maravilla, súper simpática y rápida. La comida muy rica y el sitio precioso.",POSITIVO,5,positivo;entidades,servicio,parafrasis_resena_visible
+3,Pedí dos cafés y un croissant de chocolate y me lo sirvieron todo frío. Para estar dentro del estadio esperaba bastante más.,NEGATIVO,1,negativo,cafe;estadio,parafrasis_resena_visible
+4,Tres euros y medio por un café mediocre. Encima los baños estaban sucios a mediodía de un martes cualquiera. El FC Barcelona debería cuidar más sus instalaciones.,NEGATIVO,1,negativo;entidades,cafe;banos;precio,parafrasis_resena_visible
+5,"El chico de la caja fue muy amable, eso sí. Lo que me molestó es que te cobran el vaso de plástico sin avisarte ni darte otra opción.",MIXTO,2,mixto,servicio;vaso_de_plastico,parafrasis_resena_visible
+6,Voy probando hamburguesas por todo Barcelona y esta es de las peores: pan seco y carne sin sabor. Un 1 sobre 10.,NEGATIVO,1,negativo;entidades,hamburguesa,parafrasis_resena_visible
+7,"Un sitio precioso para visitar, la comida riquísima y el personal muy atento.",POSITIVO,5,positivo,servicio;comida,parafrasis_resena_visible
+8,Vimos el clásico del Barça contra el Real Madrid en las pantallas gigantes. Ambiente espectacular y la Estrella Damm bien fría.,POSITIVO,5,positivo;entidades,cerveza;barca,simulada_tema_real
+9,"Genial, 40 minutos esperando una hamburguesa que llegó fría. Una experiencia inolvidable, de verdad.",NEGATIVO,1,sarcasmo,hamburguesa;servicio,simulada_tema_real
+10,"No volvería. No es que la comida sea horrible, pero no vale lo que cuesta.",NEGATIVO,2,negacion,precio,simulada_tema_real
+11,No está nada mal para ser un sitio turístico. Las bravas no tienen nada que envidiar a las de cualquier bar de Les Corts.,POSITIVO,4,negacion;entidades,comida,simulada_tema_real
+12,Top!!,POSITIVO,5,texto_corto,general,simulada_tema_real
+13,Carísimo.,NEGATIVO,1,texto_corto,precio,simulada_tema_real
+14,"La decoración con camisetas firmadas y lámparas en forma de balón es preciosa, pero la comida es muy normalita y cara.",MIXTO,3,mixto,decoracion;precio,simulada_tema_real
+15,"no bale la pena, la amburguesa estava cruda i el refresco sin gas. nunca mas",NEGATIVO,1,error_ortografico;negacion,hamburguesa;refrescos,simulada_tema_real
+16,"q buen sitio!! los nachos buenisimos y el camarero super atento, bolveremos seguro",POSITIVO,5,error_ortografico,servicio;comida,simulada_tema_real
+17,"Está junto al Palau Blaugrana, en la calle Arístides Maillol. Abren a las 10 de la mañana.",NEUTRO,3,neutro;entidades,ubicacion,simulada_tema_real
+18,Vinimos desde Guatemala solo para conocer el Spotify Camp Nou y comer aquí fue la guinda. Mi hijo Santiago salió feliz con su camiseta de Lamine Yamal.,POSITIVO,5,positivo;entidades,estadio;barca,simulada_tema_real
+19,"La carta la diseñaron los hermanos Iglesias y se nota en algunos platos, pero el servicio no está a la altura: tardaron muchísimo.",MIXTO,3,mixto;entidades,comida;servicio,simulada_tema_real
+20,"Nos tuvieron esperando de pie aunque había mesas libres. Cuando por fin nos sentamos, la mesa estaba pegajosa.",NEGATIVO,1,negativo,mesa;servicio,simulada_tema_real
+21,"Buena opción para comer algo rápido antes del partido. Precios de estadio, pero la calidad es correcta y el personal eficiente.",POSITIVO,4,positivo;mixto_leve,precio;servicio,simulada_tema_real
+22,Qué suerte tenemos los culés: pagar siete euros por una cerveza en vaso de plástico. Así seguro que terminan la reforma del estadio.,NEGATIVO,2,sarcasmo,cerveza;vaso_de_plastico;precio,simulada_tema_real
+23,"Los camareros son un amor, pero la cocina es un desastre: el pollo seco y las patatas congeladas.",MIXTO,2,mixto,servicio;comida,simulada_tema_real
+24,"Celebramos el cumpleaños de mi sobrino Mateo aquí y el equipo del Barça Cafe se portó genial, hasta le pusieron una vela en el postre.",POSITIVO,5,positivo;entidades,servicio,simulada_tema_real
+25,"Personal desbordado, música altísima y nadie limpió nuestra mesa en toda la tarde. Una pena para la imagen del club.",NEGATIVO,1,negativo,mesa;servicio,simulada_tema_real
+26,Meh.,NEGATIVO,2,texto_corto,general,simulada_tema_real
+27,No puedo decir que no me haya gustado: el bocadillo de jamón estaba bueno y no tardaron nada.,POSITIVO,4,negacion,comida;servicio,simulada_tema_real
+28,Esperaba algo digno del Museu del Barça y me encontré un bar de aeropuerto con precios de Plaça de Catalunya.,NEGATIVO,1,negativo;entidades,precio;barca,simulada_tema_real
+29,"La Blaugrana Burger con salsa Culé está brutal, pídanla sin dudar.",POSITIVO,5,entidad_desconocida;jerga,hamburguesa,simulada_tema_real
+30,"Amazing ambiente, la paella muy good y el staff very friendly. ¡Volveremos desde México!",POSITIVO,5,mezcla_idiomas;entidades,comida;servicio,simulada_tema_real
+31,"Pedí una ensalada y me trajeron una hamburguesa. Cuando lo reclamé, el encargado Sergi ni se disculpó.",NEGATIVO,1,negativo;entidades,hamburguesa;servicio,simulada_tema_real
+32,"Para ver un partido con amigos está bien, para comer no lo recomiendo.",MIXTO,3,mixto;negacion,barca;comida,simulada_tema_real
+33,"El brunch del domingo fue una sorpresa: huevos benedictinos riquísimos, zumo natural y vistas al estadio.",POSITIVO,5,positivo,comida;estadio,simulada_tema_real
+34,"Cinco estrellas... para el aire acondicionado, que es lo único que funcionaba.",NEGATIVO,1,sarcasmo,general,simulada_tema_real
+35,Normal. Ni bueno ni malo.,NEUTRO,3,neutro;negacion;texto_corto,general,simulada_tema_real
+36,Coincidimos con aficionados de Japón y Brasil y acabamos todos cantando el himno del Barça. Ambiente único en Barcelona.,POSITIVO,5,positivo;entidades,barca,simulada_tema_real
