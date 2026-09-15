@@ -1,0 +1,37 @@
+review_id,text,etiqueta_humana,casos,sentiment,sentiment_score,sentiment_raw,polarity_score,sentiment_defecto,score_defecto,num_entities,entity_types,entities
+1,"Fuimos después del tour del Museo del FC Barcelona y nos encantó. La decoración azulgrana, las pantallas gigantes y unos camareros muy agradables. Muy recomendable.",POSITIVO,positivo;entidades,POSITIVE,0.8571,5 stars,0.9924,POSITIVE,0.9388,1,MISC,MISC:Museo del FC Barcelona (0.95)
+2,"La camarera Nuria nos atendió de maravilla, súper simpática y rápida. La comida muy rica y el sitio precioso.",POSITIVO,positivo;entidades,POSITIVE,0.8596,5 stars,0.9888,NEGATIVE,0.9494,1,PER,PER:Nuria (1.00)
+3,Pedí dos cafés y un croissant de chocolate y me lo sirvieron todo frío. Para estar dentro del estadio esperaba bastante más.,NEGATIVO,negativo,NEGATIVE,0.3717,2 stars,0.5224,NEGATIVE,0.9497,0,,
+4,Tres euros y medio por un café mediocre. Encima los baños estaban sucios a mediodía de un martes cualquiera. El FC Barcelona debería cuidar más sus instalaciones.,NEGATIVO,negativo;entidades,NEGATIVE,0.5659,1 star,0.9039,NEGATIVE,0.9845,1,ORG,ORG:FC Barcelona (1.00)
+5,"El chico de la caja fue muy amable, eso sí. Lo que me molestó es que te cobran el vaso de plástico sin avisarte ni darte otra opción.",MIXTO,mixto,NEUTRAL,0.4382,3 stars,0.4382,NEGATIVE,0.9827,0,,
+6,Voy probando hamburguesas por todo Barcelona y esta es de las peores: pan seco y carne sin sabor. Un 1 sobre 10.,NEGATIVO,negativo;entidades,NEGATIVE,0.8476,1 star,0.963,NEGATIVE,0.9561,1,LOC,LOC:Barcelona (1.00)
+7,"Un sitio precioso para visitar, la comida riquísima y el personal muy atento.",POSITIVO,positivo,POSITIVE,0.7811,5 stars,0.9814,NEGATIVE,0.557,0,,
+8,Vimos el clásico del Barça contra el Real Madrid en las pantallas gigantes. Ambiente espectacular y la Estrella Damm bien fría.,POSITIVO,positivo;entidades,POSITIVE,0.5997,5 stars,0.923,NEGATIVE,0.6809,3,MISC;ORG,ORG:Barça (0.91) | ORG:Real Madrid (1.00) | MISC:Estrella Damm (1.00)
+9,"Genial, 40 minutos esperando una hamburguesa que llegó fría. Una experiencia inolvidable, de verdad.",NEGATIVO,sarcasmo,POSITIVE,0.9141,5 stars,0.9833,NEGATIVE,0.6826,0,,
+10,"No volvería. No es que la comida sea horrible, pero no vale lo que cuesta.",NEGATIVO,negacion,NEGATIVE,0.4462,1 star,0.8754,NEGATIVE,0.9967,0,,
+11,No está nada mal para ser un sitio turístico. Las bravas no tienen nada que envidiar a las de cualquier bar de Les Corts.,POSITIVO,negacion;entidades,NEUTRAL,0.446,3 stars,0.446,NEGATIVE,0.9948,1,LOC,LOC:Les Corts (1.00)
+12,Top!!,POSITIVO,texto_corto,POSITIVE,0.841,5 stars,0.9744,POSITIVE,0.9998,0,,
+13,Carísimo.,NEGATIVO,texto_corto,POSITIVE,0.3235,5 stars,0.5436,POSITIVE,0.9851,0,,
+14,"La decoración con camisetas firmadas y lámparas en forma de balón es preciosa, pero la comida es muy normalita y cara.",MIXTO,mixto,NEUTRAL,0.5005,3 stars,0.5005,NEGATIVE,0.6372,0,,
+15,"no bale la pena, la amburguesa estava cruda i el refresco sin gas. nunca mas",NEGATIVO,error_ortografico;negacion,NEGATIVE,0.6358,1 star,0.8824,NEGATIVE,0.9821,0,,
+16,"q buen sitio!! los nachos buenisimos y el camarero super atento, bolveremos seguro",POSITIVO,error_ortografico,POSITIVE,0.7378,5 stars,0.9655,NEGATIVE,0.7538,0,,
+17,"Está junto al Palau Blaugrana, en la calle Arístides Maillol. Abren a las 10 de la mañana.",NEUTRO,neutro;entidades,POSITIVE,0.323,5 stars,0.5834,NEGATIVE,0.5702,2,LOC,LOC:Palau Blaugrana (1.00) | LOC:calle Arístides Maillol (1.00)
+18,Vinimos desde Guatemala solo para conocer el Spotify Camp Nou y comer aquí fue la guinda. Mi hijo Santiago salió feliz con su camiseta de Lamine Yamal.,POSITIVO,positivo;entidades,POSITIVE,0.4784,5 stars,0.6749,NEGATIVE,0.9626,4,LOC;MISC;PER,LOC:Guatemala (1.00) | MISC:Spotify Camp Nou (0.93) | PER:Santiago (1.00) | MISC:Lamine Yamal (0.99)
+19,"La carta la diseñaron los hermanos Iglesias y se nota en algunos platos, pero el servicio no está a la altura: tardaron muchísimo.",MIXTO,mixto;entidades,NEGATIVE,0.4602,2 stars,0.6361,NEGATIVE,0.9948,1,PER,PER:Iglesias (0.69)
+20,"Nos tuvieron esperando de pie aunque había mesas libres. Cuando por fin nos sentamos, la mesa estaba pegajosa.",NEGATIVO,negativo,NEGATIVE,0.4477,2 stars,0.708,NEGATIVE,0.8963,0,,
+21,"Buena opción para comer algo rápido antes del partido. Precios de estadio, pero la calidad es correcta y el personal eficiente.",POSITIVO,positivo;mixto_leve,POSITIVE,0.6368,4 stars,0.6946,POSITIVE,0.8807,0,,
+22,Qué suerte tenemos los culés: pagar siete euros por una cerveza en vaso de plástico. Así seguro que terminan la reforma del estadio.,NEGATIVO,sarcasmo,NEGATIVE,0.5346,1 star,0.723,NEGATIVE,0.9791,0,,
+23,"Los camareros son un amor, pero la cocina es un desastre: el pollo seco y las patatas congeladas.",MIXTO,mixto,NEGATIVE,0.4334,2 stars,0.6529,NEGATIVE,0.9729,0,,
+24,"Celebramos el cumpleaños de mi sobrino Mateo aquí y el equipo del Barça Cafe se portó genial, hasta le pusieron una vela en el postre.",POSITIVO,positivo;entidades,POSITIVE,0.2972,5 stars,0.5515,NEGATIVE,0.8101,2,ORG;PER,PER:Mateo (1.00) | ORG:Barça Cafe (1.00)
+25,"Personal desbordado, música altísima y nadie limpió nuestra mesa en toda la tarde. Una pena para la imagen del club.",NEGATIVO,negativo,NEGATIVE,0.8619,1 star,0.9855,NEGATIVE,0.9539,0,,
+26,Meh.,NEGATIVO,texto_corto,NEUTRAL,0.4985,3 stars,0.4985,NEGATIVE,0.508,0,,
+27,No puedo decir que no me haya gustado: el bocadillo de jamón estaba bueno y no tardaron nada.,POSITIVO,negacion,NEGATIVE,0.5594,2 stars,0.8195,NEGATIVE,0.9768,0,,
+28,Esperaba algo digno del Museu del Barça y me encontré un bar de aeropuerto con precios de Plaça de Catalunya.,NEGATIVO,negativo;entidades,NEUTRAL,0.4597,3 stars,0.4597,POSITIVE,0.8793,2,LOC;MISC,MISC:Museu del Barça (0.69) | LOC:Catalunya (0.97)
+29,"La Blaugrana Burger con salsa Culé está brutal, pídanla sin dudar.",POSITIVO,entidad_desconocida;jerga,NEGATIVE,0.3262,1 star,0.5766,NEGATIVE,0.984,2,MISC,MISC:Blaugrana Burger (1.00) | MISC:Culé (1.00)
+30,"Amazing ambiente, la paella muy good y el staff very friendly. ¡Volveremos desde México!",POSITIVO,mezcla_idiomas;entidades,POSITIVE,0.8269,5 stars,0.9887,POSITIVE,0.9998,1,LOC,LOC:México (1.00)
+31,"Pedí una ensalada y me trajeron una hamburguesa. Cuando lo reclamé, el encargado Sergi ni se disculpó.",NEGATIVO,negativo;entidades,NEGATIVE,0.7752,1 star,0.9185,NEGATIVE,0.9036,1,PER,PER:Sergi (1.00)
+32,"Para ver un partido con amigos está bien, para comer no lo recomiendo.",MIXTO,mixto;negacion,NEUTRAL,0.4277,3 stars,0.4277,NEGATIVE,0.8152,0,,
+33,"El brunch del domingo fue una sorpresa: huevos benedictinos riquísimos, zumo natural y vistas al estadio.",POSITIVO,positivo,POSITIVE,0.4773,5 stars,0.7728,NEGATIVE,0.874,0,,
+34,"Cinco estrellas... para el aire acondicionado, que es lo único que funcionaba.",NEGATIVO,sarcasmo,POSITIVE,0.9452,5 stars,0.9735,POSITIVE,0.5527,0,,
+35,Normal. Ni bueno ni malo.,NEUTRO,neutro;negacion;texto_corto,NEUTRAL,0.4197,3 stars,0.4197,POSITIVE,0.8805,0,,
+36,Coincidimos con aficionados de Japón y Brasil y acabamos todos cantando el himno del Barça. Ambiente único en Barcelona.,POSITIVO,positivo;entidades,POSITIVE,0.4614,5 stars,0.8342,POSITIVE,0.9812,4,LOC;MISC,LOC:Japón (0.98) | LOC:Brasil (1.00) | MISC:Ambiente único (0.54) | LOC:Barcelona (1.00)

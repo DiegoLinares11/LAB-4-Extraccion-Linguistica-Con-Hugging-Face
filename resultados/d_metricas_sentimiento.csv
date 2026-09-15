@@ -1,0 +1,3 @@
+modelo,accuracy,POSITIVE_precision,POSITIVE_recall,POSITIVE_f1-score,NEGATIVE_precision,NEGATIVE_recall,NEGATIVE_f1-score
+defecto (SST-2 inglés),0.552,0.625,0.333,0.435,0.524,0.786,0.629
+multilingüe (estrellas),0.724,0.8,0.8,0.8,0.818,0.643,0.72

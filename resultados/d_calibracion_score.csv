@@ -1,0 +1,10 @@
+modelo,rango_score,reseñas,aciertos,tasa_acierto
+defecto,"(0.0, 0.5]",0,0,
+defecto,"(0.5, 0.8]",6,2,0.333
+defecto,"(0.8, 1.0]",23,14,0.609
+multilingüe (estrella),"(0.0, 0.5]",12,7,0.583
+multilingüe (estrella),"(0.5, 0.8]",9,8,0.889
+multilingüe (estrella),"(0.8, 1.0]",8,6,0.75
+multilingüe (polaridad),"(0.0, 0.5]",3,0,0.0
+multilingüe (polaridad),"(0.5, 0.8]",9,7,0.778
+multilingüe (polaridad),"(0.8, 1.0]",17,14,0.824

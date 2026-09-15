@@ -1,0 +1,21 @@
+review_id,text,"defecto (inglés, simple)",español (simple),español (first)
+1,"Fuimos después del tour del Museo del FC Barcelona y nos encantó. La decoración azulgrana, las pantallas gigantes y unos camareros muy agradables. Muy recomendable.",LOC:del | ORG:FC Barcelona,MISC:Museo del FC Barcelona,MISC:Museo del FC Barcelona
+2,"La camarera Nuria nos atendió de maravilla, súper simpática y rápida. La comida muy rica y el sitio precioso.",PER:ca | PER:Nuria,PER:Nu | PER:ria,PER:Nuria
+4,Tres euros y medio por un café mediocre. Encima los baños estaban sucios a mediodía de un martes cualquiera. El FC Barcelona debería cuidar más sus instalaciones.,ORG:FC Barcelona,ORG:FC Barcelona,ORG:FC Barcelona
+6,Voy probando hamburguesas por todo Barcelona y esta es de las peores: pan seco y carne sin sabor. Un 1 sobre 10.,MISC:mb | MISC:ues | LOC:Barcelona,LOC:Barcelona,LOC:Barcelona
+8,Vimos el clásico del Barça contra el Real Madrid en las pantallas gigantes. Ambiente espectacular y la Estrella Damm bien fría.,ORG:Barça | ORG:Real Madrid | ORG:Est | PER:rella Damm,ORG:Barça | ORG:Real Madrid | MISC:Estrella Damm,ORG:Barça | ORG:Real Madrid | MISC:Estrella Damm
+9,"Genial, 40 minutos esperando una hamburguesa que llegó fría. Una experiencia inolvidable, de verdad.",MISC:mb | MISC:ues,—,—
+11,No está nada mal para ser un sitio turístico. Las bravas no tienen nada que envidiar a las de cualquier bar de Les Corts.,ORG:Les Corts,LOC:Les Corts,LOC:Les Corts
+13,Carísimo.,ORG:Carís,—,—
+15,"no bale la pena, la amburguesa estava cruda i el refresco sin gas. nunca mas",MISC:ues,—,—
+17,"Está junto al Palau Blaugrana, en la calle Arístides Maillol. Abren a las 10 de la mañana.",LOC:Palau | ORG:B | LOC:grana | LOC:Ar | PER:ístides Maillo | LOC:l,LOC:Palau Blaugrana | LOC:calle Arístides Maillol,LOC:Palau Blaugrana | LOC:calle Arístides Maillol
+18,Vinimos desde Guatemala solo para conocer el Spotify Camp Nou y comer aquí fue la guinda. Mi hijo Santiago salió feliz con su camiseta de Lamine Yamal.,LOC:Guatemala | ORG:Spotify Camp | MISC:No | ORG:u | PER:Santiago | PER:Lamine Yamal,LOC:Guatemala | MISC:Spo | MISC:tify Camp Nou | PER:Santiago | MISC:Lamine Yamal,LOC:Guatemala | MISC:Spotify Camp Nou | PER:Santiago | MISC:Lamine Yamal
+19,"La carta la diseñaron los hermanos Iglesias y se nota en algunos platos, pero el servicio no está a la altura: tardaron muchísimo.",PER:Iglesias,PER:Iglesias,PER:Iglesias
+23,"Los camareros son un amor, pero la cocina es un desastre: el pollo seco y las patatas congeladas.",PER:Los ca,—,—
+24,"Celebramos el cumpleaños de mi sobrino Mateo aquí y el equipo del Barça Cafe se portó genial, hasta le pusieron una vela en el postre.",PER:Mateo | ORG:Barça Cafe,PER:Mateo | ORG:Barça Cafe,PER:Mateo | ORG:Barça Cafe
+26,Meh.,PER:Me,—,—
+28,Esperaba algo digno del Museu del Barça y me encontré un bar de aeropuerto con precios de Plaça de Catalunya.,ORG:Museu del Barça | LOC:Plaça de Catalunya,MISC:Muse | LOC:u | MISC:del Barça | LOC:Catalunya,MISC:Museu del Barça | LOC:Catalunya
+29,"La Blaugrana Burger con salsa Culé está brutal, pídanla sin dudar.",ORG:La Blaugrana Burger,MISC:Blaugrana Burger | MISC:Cul | MISC:é,MISC:Blaugrana Burger | MISC:Culé
+30,"Amazing ambiente, la paella muy good y el staff very friendly. ¡Volveremos desde México!",MISC:de | LOC:México,LOC:México,LOC:México
+31,"Pedí una ensalada y me trajeron una hamburguesa. Cuando lo reclamé, el encargado Sergi ni se disculpó.",MISC:mb | PER:Sergi,PER:Sergi,PER:Sergi
+36,Coincidimos con aficionados de Japón y Brasil y acabamos todos cantando el himno del Barça. Ambiente único en Barcelona.,LOC:Japón | LOC:Brasil | LOC:Bar | ORG:ça | LOC:Barcelona,LOC:Japón | LOC:Brasil | MISC:Ambiente único | LOC:Barcelona,LOC:Japón | LOC:Brasil | MISC:Ambiente único | LOC:Barcelona

@@ -1,0 +1,476 @@
+[
+  {
+    "review_id": 1,
+    "text": "Fuimos después del tour del Museo del FC Barcelona y nos encantó. La decoración azulgrana, las pantallas gigantes y unos camareros muy agradables. Muy recomendable.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.8571,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9924,
+    "entities": [
+      {
+        "label": "MISC",
+        "text": "Museo del FC Barcelona",
+        "score": 0.9461
+      }
+    ]
+  },
+  {
+    "review_id": 2,
+    "text": "La camarera Nuria nos atendió de maravilla, súper simpática y rápida. La comida muy rica y el sitio precioso.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.8596,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9888,
+    "entities": [
+      {
+        "label": "PER",
+        "text": "Nuria",
+        "score": 0.9966
+      }
+    ]
+  },
+  {
+    "review_id": 3,
+    "text": "Pedí dos cafés y un croissant de chocolate y me lo sirvieron todo frío. Para estar dentro del estadio esperaba bastante más.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.3717,
+    "sentiment_raw": "2 stars",
+    "polarity_score": 0.5224,
+    "entities": []
+  },
+  {
+    "review_id": 4,
+    "text": "Tres euros y medio por un café mediocre. Encima los baños estaban sucios a mediodía de un martes cualquiera. El FC Barcelona debería cuidar más sus instalaciones.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.5659,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.9039,
+    "entities": [
+      {
+        "label": "ORG",
+        "text": "FC Barcelona",
+        "score": 0.9995
+      }
+    ]
+  },
+  {
+    "review_id": 5,
+    "text": "El chico de la caja fue muy amable, eso sí. Lo que me molestó es que te cobran el vaso de plástico sin avisarte ni darte otra opción.",
+    "sentiment": "NEUTRAL",
+    "sentiment_score": 0.4382,
+    "sentiment_raw": "3 stars",
+    "polarity_score": 0.4382,
+    "entities": []
+  },
+  {
+    "review_id": 6,
+    "text": "Voy probando hamburguesas por todo Barcelona y esta es de las peores: pan seco y carne sin sabor. Un 1 sobre 10.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.8476,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.963,
+    "entities": [
+      {
+        "label": "LOC",
+        "text": "Barcelona",
+        "score": 0.9998
+      }
+    ]
+  },
+  {
+    "review_id": 7,
+    "text": "Un sitio precioso para visitar, la comida riquísima y el personal muy atento.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.7811,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9814,
+    "entities": []
+  },
+  {
+    "review_id": 8,
+    "text": "Vimos el clásico del Barça contra el Real Madrid en las pantallas gigantes. Ambiente espectacular y la Estrella Damm bien fría.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.5997,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.923,
+    "entities": [
+      {
+        "label": "ORG",
+        "text": "Barça",
+        "score": 0.9111
+      },
+      {
+        "label": "ORG",
+        "text": "Real Madrid",
+        "score": 0.9996
+      },
+      {
+        "label": "MISC",
+        "text": "Estrella Damm",
+        "score": 0.9995
+      }
+    ]
+  },
+  {
+    "review_id": 9,
+    "text": "Genial, 40 minutos esperando una hamburguesa que llegó fría. Una experiencia inolvidable, de verdad.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.9141,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9833,
+    "entities": []
+  },
+  {
+    "review_id": 10,
+    "text": "No volvería. No es que la comida sea horrible, pero no vale lo que cuesta.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.4462,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.8754,
+    "entities": []
+  },
+  {
+    "review_id": 11,
+    "text": "No está nada mal para ser un sitio turístico. Las bravas no tienen nada que envidiar a las de cualquier bar de Les Corts.",
+    "sentiment": "NEUTRAL",
+    "sentiment_score": 0.446,
+    "sentiment_raw": "3 stars",
+    "polarity_score": 0.446,
+    "entities": [
+      {
+        "label": "LOC",
+        "text": "Les Corts",
+        "score": 0.9992
+      }
+    ]
+  },
+  {
+    "review_id": 12,
+    "text": "Top!!",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.841,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9744,
+    "entities": []
+  },
+  {
+    "review_id": 13,
+    "text": "Carísimo.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.3235,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.5436,
+    "entities": []
+  },
+  {
+    "review_id": 14,
+    "text": "La decoración con camisetas firmadas y lámparas en forma de balón es preciosa, pero la comida es muy normalita y cara.",
+    "sentiment": "NEUTRAL",
+    "sentiment_score": 0.5005,
+    "sentiment_raw": "3 stars",
+    "polarity_score": 0.5005,
+    "entities": []
+  },
+  {
+    "review_id": 15,
+    "text": "no bale la pena, la amburguesa estava cruda i el refresco sin gas. nunca mas",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.6358,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.8824,
+    "entities": []
+  },
+  {
+    "review_id": 16,
+    "text": "q buen sitio!! los nachos buenisimos y el camarero super atento, bolveremos seguro",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.7378,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9655,
+    "entities": []
+  },
+  {
+    "review_id": 17,
+    "text": "Está junto al Palau Blaugrana, en la calle Arístides Maillol. Abren a las 10 de la mañana.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.323,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.5834,
+    "entities": [
+      {
+        "label": "LOC",
+        "text": "Palau Blaugrana",
+        "score": 0.9991
+      },
+      {
+        "label": "LOC",
+        "text": "calle Arístides Maillol",
+        "score": 0.9985
+      }
+    ]
+  },
+  {
+    "review_id": 18,
+    "text": "Vinimos desde Guatemala solo para conocer el Spotify Camp Nou y comer aquí fue la guinda. Mi hijo Santiago salió feliz con su camiseta de Lamine Yamal.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.4784,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.6749,
+    "entities": [
+      {
+        "label": "LOC",
+        "text": "Guatemala",
+        "score": 0.9996
+      },
+      {
+        "label": "MISC",
+        "text": "Spotify Camp Nou",
+        "score": 0.9308
+      },
+      {
+        "label": "PER",
+        "text": "Santiago",
+        "score": 0.9986
+      },
+      {
+        "label": "MISC",
+        "text": "Lamine Yamal",
+        "score": 0.9921
+      }
+    ]
+  },
+  {
+    "review_id": 19,
+    "text": "La carta la diseñaron los hermanos Iglesias y se nota en algunos platos, pero el servicio no está a la altura: tardaron muchísimo.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.4602,
+    "sentiment_raw": "2 stars",
+    "polarity_score": 0.6361,
+    "entities": [
+      {
+        "label": "PER",
+        "text": "Iglesias",
+        "score": 0.6876
+      }
+    ]
+  },
+  {
+    "review_id": 20,
+    "text": "Nos tuvieron esperando de pie aunque había mesas libres. Cuando por fin nos sentamos, la mesa estaba pegajosa.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.4477,
+    "sentiment_raw": "2 stars",
+    "polarity_score": 0.708,
+    "entities": []
+  },
+  {
+    "review_id": 21,
+    "text": "Buena opción para comer algo rápido antes del partido. Precios de estadio, pero la calidad es correcta y el personal eficiente.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.6368,
+    "sentiment_raw": "4 stars",
+    "polarity_score": 0.6946,
+    "entities": []
+  },
+  {
+    "review_id": 22,
+    "text": "Qué suerte tenemos los culés: pagar siete euros por una cerveza en vaso de plástico. Así seguro que terminan la reforma del estadio.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.5346,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.723,
+    "entities": []
+  },
+  {
+    "review_id": 23,
+    "text": "Los camareros son un amor, pero la cocina es un desastre: el pollo seco y las patatas congeladas.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.4334,
+    "sentiment_raw": "2 stars",
+    "polarity_score": 0.6529,
+    "entities": []
+  },
+  {
+    "review_id": 24,
+    "text": "Celebramos el cumpleaños de mi sobrino Mateo aquí y el equipo del Barça Cafe se portó genial, hasta le pusieron una vela en el postre.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.2972,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.5515,
+    "entities": [
+      {
+        "label": "PER",
+        "text": "Mateo",
+        "score": 0.9991
+      },
+      {
+        "label": "ORG",
+        "text": "Barça Cafe",
+        "score": 0.9995
+      }
+    ]
+  },
+  {
+    "review_id": 25,
+    "text": "Personal desbordado, música altísima y nadie limpió nuestra mesa en toda la tarde. Una pena para la imagen del club.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.8619,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.9855,
+    "entities": []
+  },
+  {
+    "review_id": 26,
+    "text": "Meh.",
+    "sentiment": "NEUTRAL",
+    "sentiment_score": 0.4985,
+    "sentiment_raw": "3 stars",
+    "polarity_score": 0.4985,
+    "entities": []
+  },
+  {
+    "review_id": 27,
+    "text": "No puedo decir que no me haya gustado: el bocadillo de jamón estaba bueno y no tardaron nada.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.5594,
+    "sentiment_raw": "2 stars",
+    "polarity_score": 0.8195,
+    "entities": []
+  },
+  {
+    "review_id": 28,
+    "text": "Esperaba algo digno del Museu del Barça y me encontré un bar de aeropuerto con precios de Plaça de Catalunya.",
+    "sentiment": "NEUTRAL",
+    "sentiment_score": 0.4597,
+    "sentiment_raw": "3 stars",
+    "polarity_score": 0.4597,
+    "entities": [
+      {
+        "label": "MISC",
+        "text": "Museu del Barça",
+        "score": 0.6901
+      },
+      {
+        "label": "LOC",
+        "text": "Catalunya",
+        "score": 0.9721
+      }
+    ]
+  },
+  {
+    "review_id": 29,
+    "text": "La Blaugrana Burger con salsa Culé está brutal, pídanla sin dudar.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.3262,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.5766,
+    "entities": [
+      {
+        "label": "MISC",
+        "text": "Blaugrana Burger",
+        "score": 0.9985
+      },
+      {
+        "label": "MISC",
+        "text": "Culé",
+        "score": 0.9978
+      }
+    ]
+  },
+  {
+    "review_id": 30,
+    "text": "Amazing ambiente, la paella muy good y el staff very friendly. ¡Volveremos desde México!",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.8269,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9887,
+    "entities": [
+      {
+        "label": "LOC",
+        "text": "México",
+        "score": 0.9998
+      }
+    ]
+  },
+  {
+    "review_id": 31,
+    "text": "Pedí una ensalada y me trajeron una hamburguesa. Cuando lo reclamé, el encargado Sergi ni se disculpó.",
+    "sentiment": "NEGATIVE",
+    "sentiment_score": 0.7752,
+    "sentiment_raw": "1 star",
+    "polarity_score": 0.9185,
+    "entities": [
+      {
+        "label": "PER",
+        "text": "Sergi",
+        "score": 0.9976
+      }
+    ]
+  },
+  {
+    "review_id": 32,
+    "text": "Para ver un partido con amigos está bien, para comer no lo recomiendo.",
+    "sentiment": "NEUTRAL",
+    "sentiment_score": 0.4277,
+    "sentiment_raw": "3 stars",
+    "polarity_score": 0.4277,
+    "entities": []
+  },
+  {
+    "review_id": 33,
+    "text": "El brunch del domingo fue una sorpresa: huevos benedictinos riquísimos, zumo natural y vistas al estadio.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.4773,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.7728,
+    "entities": []
+  },
+  {
+    "review_id": 34,
+    "text": "Cinco estrellas... para el aire acondicionado, que es lo único que funcionaba.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.9452,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.9735,
+    "entities": []
+  },
+  {
+    "review_id": 35,
+    "text": "Normal. Ni bueno ni malo.",
+    "sentiment": "NEUTRAL",
+    "sentiment_score": 0.4197,
+    "sentiment_raw": "3 stars",
+    "polarity_score": 0.4197,
+    "entities": []
+  },
+  {
+    "review_id": 36,
+    "text": "Coincidimos con aficionados de Japón y Brasil y acabamos todos cantando el himno del Barça. Ambiente único en Barcelona.",
+    "sentiment": "POSITIVE",
+    "sentiment_score": 0.4614,
+    "sentiment_raw": "5 stars",
+    "polarity_score": 0.8342,
+    "entities": [
+      {
+        "label": "LOC",
+        "text": "Japón",
+        "score": 0.9839
+      },
+      {
+        "label": "LOC",
+        "text": "Brasil",
+        "score": 0.9974
+      },
+      {
+        "label": "MISC",
+        "text": "Ambiente único",
+        "score": 0.538
+      },
+      {
+        "label": "LOC",
+        "text": "Barcelona",
+        "score": 0.9971
+      }
+    ]
+  }
+]

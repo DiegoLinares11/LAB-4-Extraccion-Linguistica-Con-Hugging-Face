@@ -1,0 +1,28 @@
+review_id,label,text,score
+1,MISC,Museo del FC Barcelona,0.9461
+2,PER,Nuria,0.9966
+4,ORG,FC Barcelona,0.9995
+6,LOC,Barcelona,0.9998
+8,ORG,Barça,0.9111
+8,ORG,Real Madrid,0.9996
+8,MISC,Estrella Damm,0.9995
+11,LOC,Les Corts,0.9992
+17,LOC,Palau Blaugrana,0.9991
+17,LOC,calle Arístides Maillol,0.9985
+18,LOC,Guatemala,0.9996
+18,MISC,Spotify Camp Nou,0.9308
+18,PER,Santiago,0.9986
+18,MISC,Lamine Yamal,0.9921
+19,PER,Iglesias,0.6876
+24,PER,Mateo,0.9991
+24,ORG,Barça Cafe,0.9995
+28,MISC,Museu del Barça,0.6901
+28,LOC,Catalunya,0.9721
+29,MISC,Blaugrana Burger,0.9985
+29,MISC,Culé,0.9978
+30,LOC,México,0.9998
+31,PER,Sergi,0.9976
+36,LOC,Japón,0.9839
+36,LOC,Brasil,0.9974
+36,MISC,Ambiente único,0.538
+36,LOC,Barcelona,0.9971

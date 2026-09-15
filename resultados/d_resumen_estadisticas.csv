@@ -1,0 +1,14 @@
+metrica,valor
+reseñas,36
+positivas (multilingüe),16
+negativas (multilingüe),13
+neutras (multilingüe),7
+score promedio (multilingüe),0.5782
+positivas (defecto),9
+negativas (defecto),27
+score promedio (defecto),0.8724
+accuracy polares (defecto),0.552
+accuracy polares (multilingüe),0.724
+entidades totales,27
+entidades promedio por reseña,0.75
+tipos de entidad,LOC;MISC;ORG;PER

@@ -1,0 +1,37 @@
+review_id,humano,defecto,score_defecto,multilingue,estrellas,score_multi,score_polaridad,text,acierta_defecto,acierta_multi
+1,POSITIVE,POSITIVE,0.9388,POSITIVE,5 stars,0.8571,0.9924,"Fuimos después del tour del Museo del FC Barcelona y nos encantó. La decoración azulgrana, las pantallas gigantes y unos camareros muy agradables. Muy recomendable.",True,True
+2,POSITIVE,NEGATIVE,0.9494,POSITIVE,5 stars,0.8596,0.9888,"La camarera Nuria nos atendió de maravilla, súper simpática y rápida. La comida muy rica y el sitio precioso.",False,True
+3,NEGATIVE,NEGATIVE,0.9497,NEGATIVE,2 stars,0.3717,0.5224,Pedí dos cafés y un croissant de chocolate y me lo sirvieron todo frío. Para estar dentro del estadio esperaba bastante más.,True,True
+4,NEGATIVE,NEGATIVE,0.9845,NEGATIVE,1 star,0.5659,0.9039,Tres euros y medio por un café mediocre. Encima los baños estaban sucios a mediodía de un martes cualquiera. El FC Barcelona debería cuidar más sus instalaciones.,True,True
+5,MIXED,NEGATIVE,0.9827,NEUTRAL,3 stars,0.4382,0.4382,"El chico de la caja fue muy amable, eso sí. Lo que me molestó es que te cobran el vaso de plástico sin avisarte ni darte otra opción.",False,False
+6,NEGATIVE,NEGATIVE,0.9561,NEGATIVE,1 star,0.8476,0.963,Voy probando hamburguesas por todo Barcelona y esta es de las peores: pan seco y carne sin sabor. Un 1 sobre 10.,True,True
+7,POSITIVE,NEGATIVE,0.557,POSITIVE,5 stars,0.7811,0.9814,"Un sitio precioso para visitar, la comida riquísima y el personal muy atento.",False,True
+8,POSITIVE,NEGATIVE,0.6809,POSITIVE,5 stars,0.5997,0.923,Vimos el clásico del Barça contra el Real Madrid en las pantallas gigantes. Ambiente espectacular y la Estrella Damm bien fría.,False,True
+9,NEGATIVE,NEGATIVE,0.6826,POSITIVE,5 stars,0.9141,0.9833,"Genial, 40 minutos esperando una hamburguesa que llegó fría. Una experiencia inolvidable, de verdad.",True,False
+10,NEGATIVE,NEGATIVE,0.9967,NEGATIVE,1 star,0.4462,0.8754,"No volvería. No es que la comida sea horrible, pero no vale lo que cuesta.",True,True
+11,POSITIVE,NEGATIVE,0.9948,NEUTRAL,3 stars,0.446,0.446,No está nada mal para ser un sitio turístico. Las bravas no tienen nada que envidiar a las de cualquier bar de Les Corts.,False,False
+12,POSITIVE,POSITIVE,0.9998,POSITIVE,5 stars,0.841,0.9744,Top!!,True,True
+13,NEGATIVE,POSITIVE,0.9851,POSITIVE,5 stars,0.3235,0.5436,Carísimo.,False,False
+14,MIXED,NEGATIVE,0.6372,NEUTRAL,3 stars,0.5005,0.5005,"La decoración con camisetas firmadas y lámparas en forma de balón es preciosa, pero la comida es muy normalita y cara.",False,False
+15,NEGATIVE,NEGATIVE,0.9821,NEGATIVE,1 star,0.6358,0.8824,"no bale la pena, la amburguesa estava cruda i el refresco sin gas. nunca mas",True,True
+16,POSITIVE,NEGATIVE,0.7538,POSITIVE,5 stars,0.7378,0.9655,"q buen sitio!! los nachos buenisimos y el camarero super atento, bolveremos seguro",False,True
+17,NEUTRAL,NEGATIVE,0.5702,POSITIVE,5 stars,0.323,0.5834,"Está junto al Palau Blaugrana, en la calle Arístides Maillol. Abren a las 10 de la mañana.",False,False
+18,POSITIVE,NEGATIVE,0.9626,POSITIVE,5 stars,0.4784,0.6749,Vinimos desde Guatemala solo para conocer el Spotify Camp Nou y comer aquí fue la guinda. Mi hijo Santiago salió feliz con su camiseta de Lamine Yamal.,False,True
+19,MIXED,NEGATIVE,0.9948,NEGATIVE,2 stars,0.4602,0.6361,"La carta la diseñaron los hermanos Iglesias y se nota en algunos platos, pero el servicio no está a la altura: tardaron muchísimo.",False,False
+20,NEGATIVE,NEGATIVE,0.8963,NEGATIVE,2 stars,0.4477,0.708,"Nos tuvieron esperando de pie aunque había mesas libres. Cuando por fin nos sentamos, la mesa estaba pegajosa.",True,True
+21,POSITIVE,POSITIVE,0.8807,POSITIVE,4 stars,0.6368,0.6946,"Buena opción para comer algo rápido antes del partido. Precios de estadio, pero la calidad es correcta y el personal eficiente.",True,True
+22,NEGATIVE,NEGATIVE,0.9791,NEGATIVE,1 star,0.5346,0.723,Qué suerte tenemos los culés: pagar siete euros por una cerveza en vaso de plástico. Así seguro que terminan la reforma del estadio.,True,True
+23,MIXED,NEGATIVE,0.9729,NEGATIVE,2 stars,0.4334,0.6529,"Los camareros son un amor, pero la cocina es un desastre: el pollo seco y las patatas congeladas.",False,False
+24,POSITIVE,NEGATIVE,0.8101,POSITIVE,5 stars,0.2972,0.5515,"Celebramos el cumpleaños de mi sobrino Mateo aquí y el equipo del Barça Cafe se portó genial, hasta le pusieron una vela en el postre.",False,True
+25,NEGATIVE,NEGATIVE,0.9539,NEGATIVE,1 star,0.8619,0.9855,"Personal desbordado, música altísima y nadie limpió nuestra mesa en toda la tarde. Una pena para la imagen del club.",True,True
+26,NEGATIVE,NEGATIVE,0.508,NEUTRAL,3 stars,0.4985,0.4985,Meh.,True,False
+27,POSITIVE,NEGATIVE,0.9768,NEGATIVE,2 stars,0.5594,0.8195,No puedo decir que no me haya gustado: el bocadillo de jamón estaba bueno y no tardaron nada.,False,False
+28,NEGATIVE,POSITIVE,0.8793,NEUTRAL,3 stars,0.4597,0.4597,Esperaba algo digno del Museu del Barça y me encontré un bar de aeropuerto con precios de Plaça de Catalunya.,False,False
+29,POSITIVE,NEGATIVE,0.984,NEGATIVE,1 star,0.3262,0.5766,"La Blaugrana Burger con salsa Culé está brutal, pídanla sin dudar.",False,False
+30,POSITIVE,POSITIVE,0.9998,POSITIVE,5 stars,0.8269,0.9887,"Amazing ambiente, la paella muy good y el staff very friendly. ¡Volveremos desde México!",True,True
+31,NEGATIVE,NEGATIVE,0.9036,NEGATIVE,1 star,0.7752,0.9185,"Pedí una ensalada y me trajeron una hamburguesa. Cuando lo reclamé, el encargado Sergi ni se disculpó.",True,True
+32,MIXED,NEGATIVE,0.8152,NEUTRAL,3 stars,0.4277,0.4277,"Para ver un partido con amigos está bien, para comer no lo recomiendo.",False,False
+33,POSITIVE,NEGATIVE,0.874,POSITIVE,5 stars,0.4773,0.7728,"El brunch del domingo fue una sorpresa: huevos benedictinos riquísimos, zumo natural y vistas al estadio.",False,True
+34,NEGATIVE,POSITIVE,0.5527,POSITIVE,5 stars,0.9452,0.9735,"Cinco estrellas... para el aire acondicionado, que es lo único que funcionaba.",False,False
+35,NEUTRAL,POSITIVE,0.8805,NEUTRAL,3 stars,0.4197,0.4197,Normal. Ni bueno ni malo.,False,True
+36,POSITIVE,POSITIVE,0.9812,POSITIVE,5 stars,0.4614,0.8342,Coincidimos con aficionados de Japón y Brasil y acabamos todos cantando el himno del Barça. Ambiente único en Barcelona.,True,True
